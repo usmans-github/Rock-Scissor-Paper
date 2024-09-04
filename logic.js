@@ -5,7 +5,7 @@ let compScore = 0;
 const choices = document.querySelectorAll(".choice");
 // access the message to change the text 
 const msg = document.querySelector("#msg")
-// To update the score board firs acess the scoreboard
+// To update the score board first acess the scoreboard
 const userscorePara = document.querySelector("#userscore")
 const compscorePara = document.querySelector("#compscore")
 
